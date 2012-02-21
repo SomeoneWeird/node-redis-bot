@@ -1,0 +1,6 @@
+NPM: 
+	- redis
+	- node-uuid
+	- irc
+
+Default to localhost connection, and freenode #node-redis-irc.

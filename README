@@ -5,4 +5,4 @@ NPM:
 	- node-uuid
 	- irc
 
-Default to localhost connection, and freenode #node-redis-irc.
+Default to localhost connection, and freenode #node-redis-bot.
